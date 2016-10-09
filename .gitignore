@@ -3,4 +3,4 @@
 .settings/
 .bin/
 .gradle/
-.build/
+build/
